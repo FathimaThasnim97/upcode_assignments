@@ -1,0 +1,5 @@
+
+git fetch
+git fetch is a command that updates your local repository with changes from a remote repository. 
+It downloads any new commits, branches, or tags without merging them into your local work. 
+This way, you can see what others have done before deciding to incorporate those changes into your own code.
